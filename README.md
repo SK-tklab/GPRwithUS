@@ -10,6 +10,11 @@ Uncertainty samplingは能動学習でモデルの精度を効率的に向上さ
 
 実行すると回帰結果のプロットが保存される
 
+## プロットの例
+![iteration 1](https://github.com/SK-tklab/GPRwithUS/blob/main/image/iterarion1.png)
+![iteration 3](https://github.com/SK-tklab/GPRwithUS/blob/main/image/iterarion3.png)
+![iteration 4](https://github.com/SK-tklab/GPRwithUS/blob/main/image/iterarion4.png)
+![iteration 8](https://github.com/SK-tklab/GPRwithUS/blob/main/image/iterarion8.png)
 
 ## 設定詳細
 - 観測ノイズ: 1e-4
