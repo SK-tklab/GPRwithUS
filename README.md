@@ -5,7 +5,7 @@ Gaussian process regression with uncertainty sampling
 Implementing Gaussian process regression using only numpy.
 Cholesky decomposition is used to stably compute the inverse matrix.
 
-For more information on the Gaussian process, see http://www.gaussianprocess.org/gpml/chapters/RW.pdf
+For more information, see http://www.gaussianprocess.org/gpml/chapters/RW.pdf
 
 Uncertainty sampling (US) is one of the active learning methods to improve the accuracy of a model efficiently. The next observation point is the point with the maximum variance.
 
