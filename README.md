@@ -7,7 +7,7 @@ Cholesky decomposition is used to stably compute the inverse matrix.
 
 For more information, see http://www.gaussianprocess.org/gpml/chapters/RW.pdf
 
-Uncertainty sampling (US) is one of the active learning methods to improve the accuracy of a model efficiently. The next observation point is the point with the maximum variance.
+Uncertainty sampling (US) is one of the active learning methods to improve the accuracy of a model efficiently. Next observation point is the point with the maximum variance.
 
 ## Plot
 ![iteration 1](https://github.com/SK-tklab/GPRwithUS/blob/main/image/iterarion1.png)
